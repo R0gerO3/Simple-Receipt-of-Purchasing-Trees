@@ -1,6 +1,4 @@
 //Rodrigo Espinoza
-//Lab 4
-//CS/IS 112
 
 /* program creates:
 # of trees purch., their height, and delivery info.*/
@@ -28,7 +26,7 @@ totalCharges=treeCost+deliveryCharge*/
 
 import java.util.Scanner;
 
-public class Lab4_1
+public class SIMPLE_RECEIPT
 {
     public static void main(String[] args)
     {
